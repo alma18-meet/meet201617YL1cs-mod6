@@ -37,7 +37,8 @@ print(your_phonebook.keys())
 
 #for key in sequence_of_keys :
 #    #Do stuff
-
+for key in your_phonebook:
+    print(your_phonebook)
 #Use the loop to print to the shell the key and value
 #of every element in the dictionary
 ###
